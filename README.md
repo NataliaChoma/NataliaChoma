@@ -4,7 +4,7 @@ I am a backend developer.
 
 ## 🚀 About Me
 
-- 🎓 Bagelor degree in Electrical Engineering (emphasis in Electronics and Telecommunications) from the Federal University of Paraná.
+- 🎓 Bachelor degree in Electrical Engineering (emphasis in Electronics and Telecommunications) from the Federal University of Paraná.
 - ✍️ Currently I'm pursuing a master's degree in the field of software development.
 
 ## Tech Stack
